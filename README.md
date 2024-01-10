@@ -1,4 +1,5 @@
-#deprecated
+# DEPRECATED
+
 errbot-slack-docker
 
 https://errbot.readthedocs.io/en/latest/
