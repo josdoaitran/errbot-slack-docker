@@ -1,4 +1,4 @@
-# errbot-slack-docker
+#deprecated
 errbot-slack-docker
 
 https://errbot.readthedocs.io/en/latest/
